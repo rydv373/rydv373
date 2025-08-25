@@ -47,5 +47,3 @@
 - 🏀 Playing **Kabaddi, Basketball, Volleyball, Cricket**  
 
 ---
-
-⭐️ From [Rohit Kumar](https://github.com/rydv373)
