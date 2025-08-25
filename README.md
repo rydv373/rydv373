@@ -30,11 +30,11 @@
 ---
 
 ## 💡 Projects  
-### 🔹 [Efficient File Compressor](https://github.com/rydv373) *(C++)*  
+### 🔹 Efficient File Compressor *(C++)*  
 - Built a file compression program using **Huffman Coding** & **Run-Length Encoding (RLE)**.  
 - Optimized data storage & transmission with efficient algorithmic implementation.  
 
-### 🔹 [Quick Cart](https://github.com/rydv373) *(ReactJS, Firebase)*  
+### 🔹 Quick Cart *(ReactJS, Firebase)*  
 - Full-stack **e-commerce web application** with responsive UI (React, TailwindCSS).  
 - Implemented **user authentication & product management** with Firebase backend.  
 - Deployed on **Vercel** for scalability and performance.  
@@ -48,9 +48,4 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rydv373&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rydv373&layout=compact&theme=tokyonight)  
-
----
 ⭐️ From [Rohit Kumar](https://github.com/rydv373)
